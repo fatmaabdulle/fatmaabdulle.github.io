@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Fatma Profile</title>
+    <link>http://localhost:1313/tags/example/</link>
+    <description>Recent content in Example on Fatma Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Feb 2021 22:41:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data without Ethics</title>
+      <link>http://localhost:1313/blogs/placeholder-text/</link>
+      <pubDate>Sat, 20 Feb 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/placeholder-text/</guid>
+      <description>&lt;h3 id=&#34;1-contradiction-between-anonymity-and-login-requirements&#34;&gt;1. Contradiction Between Anonymity and Login Requirements. &lt;h3&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Data is one of the most important resources organizations use to make decisions. Collecting accurate data requires attention to transparency, question design, and anonymity.&lt;/p&gt;&#xA;&lt;p&gt;In this survey, students must log in with usernames even though responses are said to be anonymous. This contradiction may make students hesitant to answer honestly, creating biased and unreliable data. Participants have the right to know who will use their responses, how it will be stored, and whether it can be traced to them. Without clarity, informed consent and trust are compromised.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
